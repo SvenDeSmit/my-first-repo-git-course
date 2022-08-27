@@ -1,1 +1,3 @@
 Just another file in the feaure-1 branch
+
+This file was modified locally.
